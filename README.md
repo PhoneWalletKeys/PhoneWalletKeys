@@ -1,6 +1,6 @@
 ### Hi, I'm Roman. 👋
 
-## I'm a student and developer
+## I'm a student working on becoming a developer.
 
 
 
