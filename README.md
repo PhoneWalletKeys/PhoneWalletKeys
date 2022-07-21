@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m a recent graduate from Actualize who specializes in Ruby and Ruby on Rails.
+- 🔭 I'm familiar with C#, Ruby, RoR, Vue.js, and ReactNative.
 - 📫 How to reach me: rsvetter91@gmail.com
 - 😄 Pronouns: he/his
 
