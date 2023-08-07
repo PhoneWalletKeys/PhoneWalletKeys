@@ -1,6 +1,6 @@
 ### Hi, I'm Roman. 👋
 
-## I'm a junior software developer.
+## I'm a software developer.
 
 
 
